@@ -1,0 +1,11 @@
+{
+  "git": {
+    "username": "<user's git username>",
+    "password": "<user's git password>"
+  },
+  "path": {
+    "python3": "<absolute path to python3 on user's local computer>",
+    "chrome_driver": "<absolute path to chrome driver on user's local computer>",
+    "local_repo": "<absolute path to directory user's want it tobe local repository>"
+  }
+}
