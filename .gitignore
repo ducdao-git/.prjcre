@@ -1,5 +1,6 @@
 test.py
-.idea
 .env/
+.idea
 __pycache__/
 .DS_Store
+config.json
